@@ -1,16 +1,17 @@
-## Hi there 👋
+Dennis Kimani | Python Developer |Automation & AI Tools
 
-<!--
-**kimanidennis76-byte/kimanidennis76-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building practical tools that solve actual problems. Based in Nairobi, Kenya.
 
-Here are some ideas to get you started:
+What I build
+Data pipelines and automation scripts in Python
+REST APIs with FastAPI and Flask
+Machine learning tools for fitness and performance tracking
+Browser-based tools with JavaScript and the Fetch API
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Projects
+smp-tracker: Daily performance tracker with ML-powered coaching
+api-dashboard: Multi-endpoint data dashboard with pandas pandas project
+browser-coach: Client-side AI coaching tools in JavaScript
+
+Stack
+Python ~ FastAPI ~ Pandas ~ scikit-learn ~ JavaScript ~ Git ~ Superbase
